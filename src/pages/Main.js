@@ -1,9 +1,9 @@
 import React from 'react'
-import View from "react-native-web/dist/exports/View";
+import { View } from "react-native";
 
 
 function Main(){
-    return <View/>
+    return <View />
 }
 
-export default Main
+export default Main;
